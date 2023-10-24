@@ -11,11 +11,21 @@ xanda_0000_movie_processing?
 (For this and future questions, the first 5 characters is plenty - neither
 Git nor I need the whole SHA.)
 
+9b257
+
 2. What is the SHA for the last commit associated with line 9 of this file?
+
+b2ed3
 
 3. What did line 12 of this file say in commit d1d83?
 
+"Git nor I need the whole SHA.)"
+Source: https://www.atlassian.com/git/tutorials/inspecting-a-repository/git-blame
+
 4. What changed between commit e474c and 82045?
+
+gross_sort = lambda x: x["Gross"] --> gross_sort = lambda x : int(x["Gross"])
+top_five = rows[:-5:-1] --> top_five = rows[:-6:-1]
 
 ## Predicting merges
 
