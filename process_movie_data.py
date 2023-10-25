@@ -1,5 +1,5 @@
 #! /usr/bin/env python3
-# A script that imports movie data and finds the top-5 highest grossing movies
+# A script that imports movie data and finds the top-10 highest grossing movies
 import csv
 
 
